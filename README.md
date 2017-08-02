@@ -6,3 +6,5 @@ Here's another item found ib my garage.
 Old Coca-cola sign.
 
 Orange lampshade.
+
+I wonder if there's matching one in shed?
