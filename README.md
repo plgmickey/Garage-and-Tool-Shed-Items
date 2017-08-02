@@ -8,3 +8,5 @@ Old Coca-cola sign.
 Orange lampshade.
 
 I wonder if there's matching one in shed?
+
+A green lampshade was added to the items above.
